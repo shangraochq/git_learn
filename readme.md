@@ -1,2 +1,2 @@
-feature
-feature1
+bug
+bug
